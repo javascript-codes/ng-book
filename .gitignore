@@ -114,3 +114,7 @@ Desktop.ini
 # ESLint
 ######################
 .eslintcache
+
+######################
+ng-book/ng-book-angular.odt
+.~lock.ng-book-angular.odt#
