@@ -18,7 +18,7 @@ npm-debug.log.*
 ######################
 # SASS
 ######################
-.sass-cache/
+*/.sass-cache/
 
 ######################
 # Eclipse
@@ -66,8 +66,12 @@ out/
 ######################
 # Visual Studio Code
 ######################
-.vscode/
-
+*/.vscode/*
+*/!.vscode/settings.json
+*/!.vscode/tasks.json
+*/!.vscode/launch.json
+*/!.vscode/extensions.json
+*/.history/*
 
 ######################
 # Windows
@@ -119,3 +123,20 @@ Desktop.ini
 ng-book-angular.odt
 .~lock.ng-book-angular.odt#
 ng-book.code-workspace
+
+*/bazel-out
+*/dist
+*/tmp
+*/out-tsc
+*/node_modules
+*/chrome-profiler-events.json
+*/speed-measure-plugin.json
+*/.c9/
+
+*/connect.lock
+*/coverage
+*/libpeerconnection.log
+*/npm-debug.log
+*/yarn-error.log
+*/testem.log
+*/typings
