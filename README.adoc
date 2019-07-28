@@ -9,3 +9,16 @@ running the applications by typing, in their folder: +
 $ npm install
 $ ng serve
 ----
+
+or
+[source,bash]
+----
+$ ng build --aot;
+$ ng serve --aot;
+----
+
+for running remotely
+[source,bash]
+----
+$ now
+----
