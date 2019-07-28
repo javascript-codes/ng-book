@@ -122,7 +122,7 @@ Desktop.ini
 ######################
 ng-book-angular.odt
 .~lock.ng-book-angular.odt#
-ng-book.code-workspace
+*.code-workspace
 
 */bazel-out
 */dist
