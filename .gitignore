@@ -140,3 +140,4 @@ ng-book.code-workspace
 */yarn-error.log
 */testem.log
 */typings
+*/dist
