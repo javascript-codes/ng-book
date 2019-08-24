@@ -1,8 +1,7 @@
 import { BrowserModule } from '@angular/platform-browser';
 import { NgModule } from '@angular/core';
 import { FormsModule } from '@angular/forms';
-import { HttpClientModule } from '@angular/common/http';//'@angular/http';
-//HttpClientModule
+import { HttpClientModule } from '@angular/common/http';
 import { AppComponent } from './app.component';
 import { ProductImageComponent } from './product-image/product-image.component';
 import { ProductDepartmentComponent } from './product-department/product-department.component';
